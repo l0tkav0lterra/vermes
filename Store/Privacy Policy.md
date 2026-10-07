@@ -2,7 +2,7 @@
 
 Last updated: 7 October 2026
 
-This policy describes how Lotka Volterra, publishing under the developer alias Volterra ("we", "us"), handles information when you use the Microsoft Store Windows edition of Vermes and its multiplayer relay service.
+This policy describes how Lotka Volterra, publishing under the developer alias Lotka Volterra ("we", "us"), handles information when you use the Microsoft Store Windows edition of Vermes and its multiplayer relay service.
 
 **Privacy contact: volterra@atomicmail.io**
 
