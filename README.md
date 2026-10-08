@@ -2,7 +2,7 @@
 
 <p align="center">A turn-based artillery game for Windows & Android, with cross-play multiplayer support.</p>
 
-<p align="center"><a href="https://www.microsoft.com/store/productid/9plk4662hhdd"><img width="200" src="https://get.microsoft.com/images/en-us%20dark.svg" /></a>
+<p align="center"><a href="https://www.microsoft.com/store/productid/9plk4662hhdd" target="_blank"><img width="200" src="https://get.microsoft.com/images/en-us%20dark.svg"/></a>
 
 <p align="center">or
 <p align="center">join the Android Closed testing - Alpha
@@ -14,4 +14,4 @@
 <p align="center">Opt In: https://play.google.com/apps/testing/com.vermes.game.play
 
 <p align="center">Step 3
-<p align="center"><a href="https://play.google.com/store/apps/details?id=com.vermes.game.play"><img width="200" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/250px-Google_Play_Store_badge_EN.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" /></a>
+<p align="center"><a href="https://play.google.com/store/apps/details?id=com.vermes.game.play" target="_blank"><img width="200" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/250px-Google_Play_Store_badge_EN.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"/></a>
