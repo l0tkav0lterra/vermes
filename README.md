@@ -9,11 +9,11 @@
 <p align="center">or
 <p align="center">join the Android Closed testing - Alpha
 
-<p align="center">Step 1 Join Google Group:
-<p align="center">https://groups.google.com/g/vermes-testing
+<p align="center">Step 1 
+<p align="center">Join Google Group: https://groups.google.com/g/vermes-testing
 
-<p align="center">Step 2 Opt In:
-<p align="center">https://play.google.com/apps/testing/com.vermes.game.play
+<p align="center">Step 2 
+<p align="center">Opt In: https://play.google.com/apps/testing/com.vermes.game.play
 
-<p align="center">Step 3 Download from Play Store:
-<p align="center"><a href="https://play.google.com/store/apps/details?id=com.vermes.game.play"><img width="200" height="50" alt="image" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/250px-Google_Play_Store_badge_EN.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" /></a>
+<p align="center">Step 3
+<p align="center"><a href="https://play.google.com/store/apps/details?id=com.vermes.game.play"><img width="200" alt="image" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/250px-Google_Play_Store_badge_EN.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" /></a>
