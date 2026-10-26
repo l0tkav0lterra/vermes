@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/vvXdcFsz/Chat-GPT-Image-6-Oct-2026-21-10-04.png" alt="Chat-GPT-Image-6-Oct-2026-21-10-04" border="0"></a></p>
+<p align="center"><img src="https://i.ibb.co/vvXdcFsz/Chat-GPT-Image-6-Oct-2026-21-10-04.png" alt="Chat-GPT-Image-6-Oct-2026-21-10-04" border="0"></p>
 
 <p align="center">A turn-based artillery game for Windows & Android, with cross-play multiplayer support.</p>
 
