@@ -4,4 +4,4 @@
 
 <p align="center"><a href="https://www.microsoft.com/store/productid/9plk4662hhdd" target="_blank"><img width="200" src="https://get.microsoft.com/images/en-us%20dark.svg"/>
 
-<p align="center"><a href="https://play.google.com/store/apps/details?id=com.vermes.game.play" target="_blank"><img width="200" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/250px-Google_Play_Store_badge_EN.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"/></a>
+<p align="center"><a href="https://play.google.com/store/apps/details?id=com.vermes.game.play" target="_blank"><img width="200" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/250px-Google_Play_Store_badge_EN.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"/>
